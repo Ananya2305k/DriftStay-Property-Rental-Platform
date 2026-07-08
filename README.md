@@ -97,9 +97,6 @@ Visit `http://localhost:8080` (or your configured port).
 - Handled production deployment challenges including MongoDB Atlas IP whitelisting, environment-based configuration, and CORS
 
 ## 👩‍💻 Author
-Ananya
-B.Tech CSE (Data Science), MIET Meerut
-
 
 **Ananya**
 B.Tech CSE (Data Science), MIET Meerut
