@@ -9,9 +9,8 @@ const listingSchema= new Schema({
     },
     description: String,
     image:{
-        type: String,
-        default:"https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cms/the-fairy-pools-1534396580-735X412.jpg",
-        set:(v)=>v===""?"https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cms/the-fairy-pools-1534396580-735X412.jpg":v,
+        url:String,
+        filename:String,
     },
     
     price: Number,
