@@ -1,5 +1,9 @@
 # DriftStay 🏡 — Property Rental & Listing Platform
 
+## Live Demo : 
+     https://driftstay-3wh9.onrender.com
+
+## Introduction
 A full-stack property rental and listing platform built on the MEN stack (MongoDB, Express.js, Node.js) with server-side rendering via EJS. DriftStay lets users browse, list, review, and manage rental properties with secure authentication, role-based access, and map-based location discovery — architected end-to-end using the MVC pattern.
 
 ## ✨ Features
